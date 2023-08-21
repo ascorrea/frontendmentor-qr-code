@@ -18,12 +18,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./assets/design/screenshot.png)
+![screemshot](./assets/design/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/ascorrea/frontendmentor-qr-code.git)
-- Live Site URL: [Add live site URL here](https://frontendmentor-qr-code-five.vercel.app/)
+- Solution URL: [Repositorio](https://github.com/ascorrea/frontendmentor-qr-code.git)
+- Live Site URL: [Solución Card QR](https://frontendmentor-qr-code-five.vercel.app/)
 
 ## My process
 
@@ -42,4 +42,4 @@ Entender que el uso de mediaqueries no siempre es necesario para realizar pagina
 ## Author
 
 - Website - [Ander Correa](https://github.com/ascorrea)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/chokdiand)
+- Frontend Mentor - [chokdiand](https://www.frontendmentor.io/profile/chokdiand)
