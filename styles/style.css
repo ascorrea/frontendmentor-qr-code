@@ -10,6 +10,7 @@
     }
     .card-qr{
         width: 90vw;
+        max-width: 280px;
         padding: 1rem;
         padding-bottom: 2.25rem;
         display: flex;
